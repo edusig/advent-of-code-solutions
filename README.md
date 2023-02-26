@@ -6,7 +6,7 @@ Here lies some of my solutions for the [Advent of code](https://adventofcode.com
 
 ```
 ├── <YEAR>/
-│   └── <CHALLENGE NUMBER>/
+│   └── <CHALLENGE_NUMBER>/
 │       ├── input.txt
 │       └── <LANGUAGE>/
 │           └── <APPROACH>/
@@ -19,6 +19,7 @@ Here lies some of my solutions for the [Advent of code](https://adventofcode.com
 YEAR >= 2016
 
 CHALLENGE_NUMBER = 1...25
+
 LANGUAGE:
 - Typescript
 
